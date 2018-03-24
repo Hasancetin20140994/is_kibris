@@ -1,0 +1,546 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cate",
+				"categories_id"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"funct",
+				"function_exists"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"di",
+				"diaSessionId"
+			],
+			[
+				"else",
+				"elseif\telseif …"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"g",
+				"go"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"Lang",
+				"languageTag"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"da",
+				"DataKullanimCtrl"
+			],
+			[
+				"ion-",
+				"ion-nav-buttons"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/iskLite",
+		"/C/wamp/www/iskLite/app",
+		"/C/wamp/www/iskLite/app/Console",
+		"/C/wamp/www/iskLite/app/Http",
+		"/C/wamp/www/iskLite/app/Providers",
+		"/C/wamp/www/iskLite/config",
+		"/C/wamp/www/iskLite/database/factories",
+		"/C/wamp/www/iskLite/database/migrations",
+		"/C/wamp/www/iskLite/database/seeds",
+		"/C/wamp/www/iskLite/resources/views",
+		"/C/wamp/www/iskLite/storage/logs"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/iskLite/app/Http/Kernel.php",
+		"/C/wamp/www/iskLite/routes/api.php",
+		"/C/wamp/www/iskLite/config/auth.php",
+		"/C/wamp/www/iskLite/database/seeds/UsersTableSeeder.php",
+		"/C/wamp/www/iskLite/database/seeds/DatabaseSeeder.php",
+		"/C/wamp/www/iskLite/app/Providers/AuthServiceProvider.php",
+		"/C/wamp/www/iskLite/app/Providers/AppServiceProvider.php",
+		"/C/wamp/www/iskLite/config/app.php",
+		"/C/wamp/www/iskLite/app/User.php",
+		"/C/wamp/www/iskibrisLite/.env",
+		"/C/wamp/www/iskibrisLite/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp/www/iskibrisLite/app/Jobs.php",
+		"/C/wamp/www/iskibrisLite/database/migrations/2017_02_23_090126_create_jobs_table.php",
+		"/C/wamp/www/iskibrisLite/database/migrations/2017_02_23_090114_create_companies_table.php",
+		"/C/wamp/www/iskibrisLite/database/migrations/2017_02_23_090105_create_types_table.php",
+		"/C/wamp/www/iskibrisLite/database/migrations/2017_02_23_095326_create_resumes_table.php",
+		"/C/wamp/www/iskibrisLite/database/migrations/2017_02_23_090048_create_cities_table.php",
+		"/C/wamp/www/iskibrisLite/database/migrations/2017_02_23_090058_create_categories_table.php",
+		"/C/wamp/www/iskibrisLite/vendor/composer/autoload_classmap.php",
+		"/C/wamp/www/iskibrisLite/app/User.php",
+		"/C/wamp/www/iskibrisLite/app/Category.php",
+		"/C/wamp/www/ionic/iskibrisMobile/www/templates/home.html",
+		"/C/wamp/www/ionic/borayMobile/www/templates/property.html",
+		"/C/wamp/www/ionic/borayMobile/www/css/style.css",
+		"/C/wamp/www/ionic/borayMobile/www/js/translate/tr.json",
+		"/C/wamp/www/ionic/borayMobile/www/templates/search.html",
+		"/C/wamp/www/ionic/borayMobile/www/templates/calculator.html",
+		"/C/wamp/www/ionic/borayMobile/www/js/controllers.js",
+		"//QNAP/Creative/Clients Web/Telsim/Telsim Online Kontör/Development/js/main.js",
+		"//QNAP/Creative/Clients Web/Telsim/Telsim Online Kontör/Development/json/sample-data.json",
+		"//QNAP/Creative/Clients Web/Telsim/Telsim Online Kontör/Development/css/style.css",
+		"//QNAP/Creative/Clients Web/Telsim/Telsim Online Kontör/Development/thankyou.html",
+		"//QNAP/Creative/Clients Web/Telsim/Telsim Online Kontör/Development/index.html",
+		"//QNAP/Creative/Clients Web/Telsim/Telsim Online Kontör/Development/json/sample-data-false.json",
+		"/C/wamp/www/ionic/iskibrisMobile/www/js/app.js",
+		"/C/wamp/www/ionic/iskibrisMobile/www/js/controllers.js",
+		"/C/Users/DELL/Desktop/themeforest-18316458-rapiden-mega-shop-responsive-magento-2-theme/ma_rapiden_package_1.0/ma_rapiden_package_1.0/ma_rapiden_template_1.0/ma_rapiden_template_1.0/app/code/Plazathemes/Blog/Block/Index.php",
+		"/C/Users/DELL/Desktop/themeforest-18316458-rapiden-mega-shop-responsive-magento-2-theme/ma_rapiden_package_1.0/ma_rapiden_package_1.0/ma_rapiden_template_1.0/ma_rapiden_template_1.0/app/code/Plazathemes/Blog/Block/Adminhtml/Category/Edit/Tab/Main.php",
+		"/C/Users/DELL/Desktop/themeforest-18316458-rapiden-mega-shop-responsive-magento-2-theme/ma_rapiden_package_1.0/ma_rapiden_package_1.0/ma_rapiden_template_1.0/ma_rapiden_template_1.0/app/code/Plazathemes/Template/Helper/Xml/data_static_blocks.xml",
+		"/C/Users/DELL/Desktop/themeforest-18316458-rapiden-mega-shop-responsive-magento-2-theme/ma_rapiden_package_1.0/ma_rapiden_package_1.0/ma_rapiden_template_1.0/ma_rapiden_template_1.0/app/code/Plazathemes/Template/Helper/Xml/data_resources.xml",
+		"/C/Users/DELL/Desktop/themeforest-18316458-rapiden-mega-shop-responsive-magento-2-theme/ma_rapiden_package_1.0/ma_rapiden_package_1.0/ma_rapiden_template_1.0/ma_rapiden_template_1.0/app/design/frontend/rapiden/rapiden2/Magento_Cms/templates/content-home.phtml",
+		"/C/Users/DELL/Desktop/themeforest-18316458-rapiden-mega-shop-responsive-magento-2-theme/ma_rapiden_package_1.0/ma_rapiden_package_1.0/ma_rapiden_template_1.0/ma_rapiden_template_1.0/app/code/Plazathemes/Hozmegamenu/etc/adminhtml/menu.xml",
+		"/C/Users/DELL/Desktop/magento base/app/design/frontend/base/default/layout/catalog.xml",
+		"/C/Users/DELL/Desktop/magento base/app/design/frontend/base/default/template/catalog/product/list.phtml",
+		"/C/Users/DELL/Desktop/magento base/app/design/frontend/base/default/template/page/2columns-left.phtml",
+		"/C/Users/DELL/Desktop/magento base/app/design/frontend/base/default/layout/page.xml",
+		"/C/Users/DELL/Desktop/magento base/app/design/frontend/base/default/layout/newsletter.xml",
+		"/C/Users/DELL/Desktop/magento base/app/design/frontend/base/default/layout/cms.xml",
+		"/C/Users/DELL/Desktop/magento base/app/design/frontend/base/default/template/page/html/head.phtml",
+		"/C/Users/DELL/Desktop/magento base/app/design/frontend/base/default/template/page/html/topmenu.phtml",
+		"/C/Users/DELL/Desktop/magento base/app/design/frontend/base/default/template/page/html/header.phtml",
+		"/C/Users/DELL/Desktop/magento base/app/design/frontend/base/default/layout/checkout.xml",
+		"/C/wamp/www/nettenode/wp-content/plugins/inv_nettenode/js/nettenode.js",
+		"/C/wamp/www/nettenode/wp-content/plugins/inv_nettenode/class.inv_shortcodes.php",
+		"/C/wamp/www/nettenode/wp-content/plugins/inv_nettenode/class.inv_nettenode-frontend.php",
+		"/C/wamp/www/nettenode/wp-content/plugins/inv_nettenode/class.inv_nettenode-ajax.php",
+		"/C/wamp/www/nettenode/wp-content/plugins/inv_nettenode/inv_nettentode.php",
+		"/C/wamp/www/nettenode/wp-content/plugins/inv_nettenode/class.inv_nettenode-activation.php",
+		"/C/wamp/www/nettenode/wp-content/plugins/inv_nettenode/class.inv_nettenode-admin.php",
+		"/C/wamp/www/nettenode/wp-config.php",
+		"/C/wamp/www/nettenode/wp-content/plugins/akismet/akismet.php",
+		"/C/wamp/www/nettenode/wp-content/plugins/akismet/class.akismet-admin.php",
+		"/C/wamp/www/ionic/sistemcoapp/www/js/app.js",
+		"/C/wamp/www/ionic/sistemcoapp/www/js/controllers.js",
+		"/C/wamp/www/ionic/nrj/scss/ionic.app.scss",
+		"/C/wamp/www/ionic/nrj/www/js/controllers.js",
+		"/C/wamp/www/ionic/nrj/www/js/services.js",
+		"/C/wamp/www/ionic/nrj/www/._.DS_Store",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/singledestek.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/abonelik-bilgileri.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/css/style.css",
+		"/C/Users/DELL/Desktop/albank/index.html",
+		"/C/Users/DELL/Desktop/albank/_css/home_alternative.css",
+		"/C/Users/DELL/Desktop/albank/_css/MergedForFirstTheme.css",
+		"/C/wamp/www/ionic/sistemcoapp/www/index.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/js/translations.js",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/menu.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/home.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/payment.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/singletalep.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/singleabonelik.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/singleodeme.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/destek-olustur.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/siparis-olustur.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/telefon-ekle.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/adres-ekle.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/musteri-memnuniyeti.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/taleplerim.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/odeme-bekleyenler.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/odeme-gecmisi.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/abonelik-degistir.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/abonelik-yenile.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/destek.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/login.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/aboneliklerim.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/js/translate/tr.json",
+		"/C/wamp/www/ionic/sistemcoapp/www/js/translate/en.json",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/siparislerim.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/lib/ionic/scss/_variables.scss",
+		"/C/wamp/www/ionic/sistemcoapp/www/css/ionic.app.css",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/singlesiparis.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/data-kullanim.html",
+		"/C/wamp/www/ionic/sistemcoapp/www/templates/paketler.html",
+		"/C/wamp/www/ionic/sistemco/www/templates/home.html",
+		"/C/wamp/www/ionic/sistemco/www/templates/login.html",
+		"/C/wamp/www/ionic/sistemco/www/js/app.js",
+		"/C/wamp/www/ionic/sistemco/www/js/controllers.js",
+		"/C/wamp/www/ionic/sistemco/www/templates/menu.html",
+		"/C/wamp/www/ionic/sistemco/www/index.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$middlewareGroups",
+			"web",
+			"wen",
+			"Gate",
+			"AuthService",
+			"AppServiceProvider",
+			"Cv",
+			"apiHost",
+			"doLogin",
+			"content",
+			"modal",
+			"httpProvider",
+			"cookiesProvider",
+			"height",
+			"none",
+			"hidden",
+			"form",
+			"PlaylistsCtrl",
+			"LPFrameIdentityManager",
+			"camera",
+			"Camera",
+			"camera",
+			"$cordovaCamera",
+			"Camera",
+			"$cordovaCamera",
+			"Camera",
+			"Search posts",
+			"Search",
+			"main.js",
+			"breadcrumbs",
+			"featureproduct-slider",
+			"home",
+			"col-left col-sm-3",
+			"pt-recentproduct-container",
+			"ma-title",
+			"My Account",
+			"Write Us",
+			"recentproduct",
+			"owl-theme",
+			"top-banner",
+			"product-tab",
+			"categorytab-container",
+			"categorytab-container product-tab",
+			"October Special Products",
+			"hozmegamenuadmin",
+			"save",
+			"pt_menu_links",
+			"pt_menu_link",
+			"pt_menu_links",
+			"pt_menu",
+			"pt_menu_links",
+			"product/list.phtml",
+			"list.phtml",
+			"price.phtml",
+			"new.phtml",
+			"subscribe.phtml",
+			"global_notices",
+			"footer_links",
+			"2columns",
+			"2columns-right",
+			"addItem",
+			"inv_dia_username",
+			"dia",
+			"faturalarShortcode",
+			"loginDia",
+			"checkDiaCookie",
+			"login",
+			"wsl_render_auth_widget",
+			"login",
+			"COK",
+			"COO",
+			"CO",
+			"cook",
+			"dia_session_id",
+			"dia_session_id ",
+			"checkDiaCookie",
+			"dia_session_id",
+			"dia_session_id ",
+			"dia_session_id",
+			"loginDia",
+			"login",
+			"Inv_Nettenode_Activation",
+			"onActivation",
+			"get",
+			"Page",
+			"Page2",
+			"a",
+			"inv_registerForm",
+			"loginShortcode",
+			"personal_options_update",
+			"show_user_profile",
+			"\"),\n",
+			"admin_menu",
+			"Inv_Nettenode_Admin",
+			"admin_init",
+			"init",
+			"init_hooks",
+			"window.open",
+			"cloud:push:notification",
+			"FavFactory",
+			"localh",
+			"localhost",
+			"</p>",
+			"<p>",
+			"h2",
+			"</p>",
+			"<p>",
+			"h2",
+			"h3",
+			"login",
+			"cloud",
+			".cloud",
+			"FF3D55",
+			"<scr",
+			"Abone Geçm",
+			"trans",
+			"iframeHeight",
+			"ionicHistory",
+			"window.",
+			"translateSanitization",
+			"$state.go",
+			"Pend",
+			"$stateParams",
+			"odeme",
+			"</p>",
+			"<p>",
+			"h2",
+			"</p>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"</h4>",
+			"<h4>",
+			"h3",
+			"</h4>",
+			"<h4>",
+			"h3",
+			"h4",
+			"</h4>",
+			"<h4>",
+			"h3",
+			"</h4>",
+			"<h4",
+			"h3",
+			"https://online.sistem.co",
+			"name=\"",
+			"servisOlustur.",
+			"telefonekle.",
+			"te_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "iskLite.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"app\\code\\Plazathemes\\Blog\\Block\\Adminhtml\\Category\\Edit\\Tab\\Main.php"
+			],
+			[
+				"colum",
+				"app\\design\\frontend\\base\\default\\template\\page\\2columns-left.phtml"
+			],
+			[
+				"topmen",
+				"app\\design\\frontend\\base\\default\\template\\page\\html\\topmenu.phtml"
+			],
+			[
+				"header",
+				"app\\design\\frontend\\base\\default\\template\\page\\html\\header.phtml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 370.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
